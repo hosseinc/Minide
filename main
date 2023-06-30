@@ -1,4 +1,3 @@
-sub://#Local%20Servers
 vless://bm9uZTpiNjVmZjk0Mi0wNDVmLTExZWUtYmU1Ni0wMjQyYWMxMjAwMDJAcmV6aGcuZGRucy5uZXQ6NDQz?remarks=%F0%9F%87%A9%F0%9F%87%AA%20WPS-clone&obfsParam=new-cypher-nlue-dusrt.frezahc.workers.dev&path=/?ed=2048&obfs=websocket&tls=1&peer=new-cypher-nlue-dusrt.frezahc.workers.dev
 vless://bm9uZTo3NjE5ZTgxNi1mNzE3LTExZWQtYjY3ZS0wMjQyYWMxMjAwMDJAcmV6aGcuZGRucy5uZXQ6NDQz?remarks=worker%20edge&obfsParam=wor-tun-edg.frezahc.workers.dev&path=/&obfs=websocket&tls=1&peer=wor-tun-edg.frezahc.workers.dev
 vless://bm9uZTowNDE1YzkzOC02YmQxLTRhMDMtOWI4Ny1iNTM2M2Q0YzFmMTRAcmV6aGcuZGRucy5uZXQ6NDQz?remarks=edge%202&obfsParam=nw-edg-othr-lake-fdf5.frezahc.workers.dev&path=/?ed=2048&obfs=websocket&tls=1&peer=nw-edg-othr-lake-fdf5.frezahc.workers.dev
